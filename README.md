@@ -22,6 +22,8 @@
 
 🆓 **Completely Free** — no hidden payments or subscriptions
 
+⚠️ **Requirements**: Python 3.6 or higher must be installed on your system
+
 📥 **[Download](https://github.com/M8965/CS-GO-Legacy-Downloader/releases/tag/Release)**
 
 ---
@@ -49,5 +51,7 @@
 🎮 **Сохранение оригинального опыта** — никаких компромиссов с геймплеем
 
 🆓 **Полностью бесплатно** — без скрытых платежей или подписок
+
+⚠️ **Требования**: На вашей системе должен быть установлен Python 3.6 или выше
 
 📥 **[Скачать](https://github.com/M8965/CS-GO-Legacy-Downloader/releases/tag/Release)**
